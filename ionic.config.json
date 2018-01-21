@@ -1,0 +1,8 @@
+{
+  "name": "schlep",
+  "app_id": "47d62199",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
